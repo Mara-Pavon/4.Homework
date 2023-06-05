@@ -1,0 +1,196 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(8, 8, 8);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background: rgb(232, 232, 234);
+}
+.lineaprincipal{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 5px;
+    background: hsla(238, 27%, 20%, 0.855);
+    width: 100%;
+    padding: 15px 25px;
+ }
+span {
+    text-decoration: none;
+    color: rgb(255, 255, 255); 
+    width: 100px;
+
+}
+.img-amazon {
+    background-color: rgb(28, 37, 56);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+}
+.bloque{
+    
+    height: 37px; 
+    width: 95%;
+    background-color: rgb(239, 97, 10);
+    display: inline-table;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Holiday{
+    width: 94vw;
+    height: 27.5vh;
+    margin-left: 36px;
+    
+    justify-content: center;
+    background-image: url(bg-image.png);
+    text-align: center;
+    
+}
+h1 {
+    padding-top: 60px;
+    padding-bottom: 24px;
+    text-align: center;
+    color: rgb(238, 236, 236);
+    font-size: 32px;
+}
+.xx {
+    font-weight: bold;
+    padding-bottom: 50px;
+    color: rgb(238, 236, 236);
+    font-size: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin: 70px;
+    justify-content: center;
+    width: 95%;
+    height: 425px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-top: 60px;
+}
+.imagen{
+    width: 300px;
+    height: 350px;
+    content: 500px;
+    margin: 0 20px;
+    border-radius: 15px;
+    box-shadow: rgba(255, 255, 255, 0.35) 0px 0px 20px;
+
+}
+
+.z{
+    color: rgb(13, 133, 232);
+}
+.bloques{
+ display: flex;
+}
+.Gaming{
+    display: inline;
+    background-color: white;
+    width: 30%;
+    margin-left: 35px;
+    margin-bottom: 50px;
+
+}
+
+.Confy{
+    background-color: white;
+    width: 30%;
+    margin-left: 35px;
+    margin-bottom: 50px;
+}
+.h1h{
+    color: white;
+}
+.HolidayGifts{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    margin-left: 35px;
+    margin-bottom: 50px;
+}
+.Addjoy{
+    background-color: white;
+    width: 30%;
+    margin-left: 35px;
+    margin-bottom: 50px;
+}
+.Gamings{
+    display: flex;
+    width: 200px;
+    height: 120px;
+    margin-left: 35px;
+    margin-bottom: 50px;
+    
+}
+
+h1{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+
+.tex {
+    display: table-cell;
+    vertical-align: middle;
+    font-weight: bold;
+    color: white;
+}
+.accesorios{
+    width: 100%;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.accesorios1{
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    
+}
+.x{
+    font-weight: bold;
+    color: rgb(13, 133, 232);
+}
+.img-amazon2{
+    background-color: rgb(1, 16, 40);
+    height: 170px;
+    margin: auto;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.casifinal{
+    display: flex;
+    justify-content: flex-start;
+    background: hsla(217, 63%, 17%, 0.855);
+    width: 100%;
+    padding: 15px 25px 10px;
+    padding-left: 700px;
+    text-decoration: underline rgb(255, 255, 255);
+}
+    
